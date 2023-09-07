@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **isaacaguilar97/isaacaguilar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently studing a Bachelors degree in Statistics with an emphasys at Data Science at Brigham Young University
+- I'm graduating on April of 2024 so I am open for job and internship opportunities
+- These next weeks I will be creating my portfolio with all the Stat and Data Science projects I've worked so far 😄
+- I'm also looking for mentors to help me become a great Data Scientist
+
+This is my link if anyone wants to reach out to me message me through my LinkedIn; https://www.linkedin.com/in/isaac-aguilar/
