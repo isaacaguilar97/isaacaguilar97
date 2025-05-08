@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - These next weeks I will be creating my portfolio with all the Stats and Data Science projects I've worked on so far 😄
 - I'm also looking for mentors to help me become a great Data Scientist
 
-This is my link if anyone wants to reach out to me message me through my LinkedIn; https://www.linkedin.com/in/isaac-aguilar/
+This is my LinkedIn if anyone wants to reach out to me message me: https://www.linkedin.com/in/isaac-aguilar/
+Here is my portfolio website: https://datattack.gitbook.io/datattack
