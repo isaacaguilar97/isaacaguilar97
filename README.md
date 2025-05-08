@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I just graduated with Bachelors degree in Statistics with an emphasys at Data Science at Brigham Young University
-- These next weeks I will be creating my portfolio with all the Stat and Data Science projects I've worked on so far 😄
+- These next weeks I will be creating my portfolio with all the Stats and Data Science projects I've worked on so far 😄
 - I'm also looking for mentors to help me become a great Data Scientist
 
 This is my link if anyone wants to reach out to me message me through my LinkedIn; https://www.linkedin.com/in/isaac-aguilar/
