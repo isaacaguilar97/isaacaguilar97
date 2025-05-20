@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I just graduated with Bachelors degree in Statistics with an emphasys at Data Science at Brigham Young University
+- I am a Data Scientist with a background in Statistics and Project Management and experience in Financial Services, E-commerce, and Education
 - These next weeks I will be creating my portfolio with all the Stats and Data Science projects I've worked on so far 😄
 - I'm also looking for mentors to help me become a great Data Scientist
 
